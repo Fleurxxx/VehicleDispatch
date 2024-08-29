@@ -1,4 +1,6 @@
-# vue01
+# VehicleDispatch
+
+车辆调度系统的前端部分，该项目为毕设项目。
 
 ## Project setup
 ```
